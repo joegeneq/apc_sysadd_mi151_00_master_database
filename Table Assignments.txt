@@ -1,9 +1,0 @@
-Enlisted below are the assigned tables per member:
-
-Aaron - attendee, feedback, employee table
-
-Luigi - newsfeed, event_collaboration, event
-
-Daniel - landmark, event_has_room, event_schedule
-
-Kennard - venue, room
